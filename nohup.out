@@ -1,0 +1,43 @@
+
+> crypto-price-bot-discord@1.0.0 start
+> node index.js
+
+Logged in as LiquidETH Bot#2772!
+Ping Pong. Time => Mon Apr 18 2022 08:48:47 GMT+0000 (Coordinated Universal Time)
+Fantom is $1.086 right now. Time => Mon Apr 18 2022 08:49:08 GMT+0000 (Coordinated Universal Time)
+Ethereum is $2907.78 right now. Time => Mon Apr 18 2022 08:49:13 GMT+0000 (Coordinated Universal Time)
+Terminated
+npm notice 
+npm notice New minor version of npm available! 8.3.1 -> 8.7.0
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v8.7.0>
+npm notice Run `npm install -g npm@8.7.0` to update!
+npm notice 
+
+> crypto-price-bot-discord@1.0.0 start
+> node index.js
+
+Logged in as LiquidETH Bot#2772!
+Ping Pong. Time => Mon Apr 18 2022 08:54:27 GMT+0000 (Coordinated Universal Time)
+Ethereum is $2903.06 right now. Time => Mon Apr 18 2022 08:54:30 GMT+0000 (Coordinated Universal Time)
+Fantom is $1.071 right now. Time => Mon Apr 18 2022 08:54:34 GMT+0000 (Coordinated Universal Time)
+Fantom is $1.071 right now. Time => Mon Apr 18 2022 08:54:39 GMT+0000 (Coordinated Universal Time)
+Ethereum is $2903.06 right now. Time => Mon Apr 18 2022 08:54:41 GMT+0000 (Coordinated Universal Time)
+Fantom is $1.071 right now. Time => Mon Apr 18 2022 08:56:57 GMT+0000 (Coordinated Universal Time)
+Ethereum is $2903.06 right now. Time => Mon Apr 18 2022 08:57:01 GMT+0000 (Coordinated Universal Time)
+Terminated
+time="2022-04-21T18:57:45Z" level=error msg="error waiting for container: unexpected EOF"
+Logged in as LiquidETH Bot#2772!
+
+> crypto-price-bot-discord@1.0.0 start
+> node index.js
+
+Logged in as LiquidETH Bot#2772!
+Terminated
+time="2022-05-03T15:09:36Z" level=error msg="error waiting for container: unexpected EOF"
+
+> crypto-price-bot-discord@1.0.0 start
+> node index.js
+
+Logged in as LiquidETH Bot#2772!
+Terminated
+time="2022-05-04T14:35:32Z" level=error msg="error waiting for container: unexpected EOF"
