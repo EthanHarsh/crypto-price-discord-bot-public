@@ -13,7 +13,7 @@ First, input Discord tokens/IDs into config.json file.
 
 ### Using Docker
 ```
-sudo docker build . -t crypto-price-status-discord-bot
+sudo docker build . -t crypto-price-discord-bot
 ```
 
 ### Using NPM
